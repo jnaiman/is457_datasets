@@ -1,5 +1,5 @@
 # Collection of Datasets and Dataset Parsing
 
-This is just a bit of documentation about dataset parsing.
+This is just a bit of documentation about dataset parsing.  Datasets originally pulled from city of Champaign: https://data.ccrpc.org/organization/champaign
 
-* Pavement.geojson -- https://data.ccrpc.org/dataset/pavement4
+See the `parsing_datasets.ipynb` for exact links and data cleaning steps.
